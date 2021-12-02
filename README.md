@@ -2,8 +2,8 @@
 ## Lab Assignment - 2  
 ---
 ## Team Members:
-+ Mehul Bhargava [35211721]
-+ Navdeep Singh Saini [84280635]
++ Mehul Bhargava 
++ Navdeep Singh Saini 
 ---
 + The folder realestate is the package, containing all of the sub-packages and their respective modules/classes/methods.   
 + The package_design.pdf file contains a brief description of the package and functions that was planned before implementation.  
