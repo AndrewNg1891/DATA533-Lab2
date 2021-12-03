@@ -8,6 +8,7 @@
 ---
 ### **FUNCTION DETAILS**
 ---
+**Sub-package 1: apartment: predicts various properties for apartments.**
 + **Module-1 feature**
     + class 1 (parent): Features
        + apartment_price - This method reads the dictionary and returns the value of the appropriate price values based on the values which were used to instantiating the object. For example, if the we passed "1BHK" to the object of the child class, the same value will be passed to the parent class, and then it will be matched by this function in the dictionary with the key value and will return the value of the price associated with the key (In this case "1BHK").
@@ -29,7 +30,7 @@
         + apartment_furnishing_status - This method to is being used to return whether it is fully or semi furnished required based on the hwo many years the property is old which is being used to instantiate the object, for example if we are using the age of the property as "0-3" we are returning the values as "Fully Furnished", basically we created a dictionary in this class and passed years in the key and furnishing status as the value, and the function to accessing the dictionary and returning the value of furnishing status based on the key value from the dictionary.
         + (all methods imported from the parent class, which is in the features module) - We have already discussed apartment_price and apartment_area above in the parent class, but in the apartment_display function in the child class we are calling the parent class apartment_display method to provide the output of price and the area, we are using using this to call the apartment_maintenance,apartment_discount,apartment_furnishing_status methods to print the maintenance status,discount range,furnishing status which is returned from that function.
         
-**Sub-package 2: FamilyHome: predicts various properties for family homes.**
+**Sub-package 2: familyhome: predicts various properties for family homes.**
 In each of the modules in this sub-package has its several dictionaries. The keys of these dictionaries have the values related to what user is going to enter and the value is the expected characteristic associated with each choice of a user. In this way all of the functions are returning the values of the dictionaries as an output by using the values entered by a user as a key.  
 
 + **Module-1 attributes**
