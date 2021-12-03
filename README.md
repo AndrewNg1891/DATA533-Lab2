@@ -4,6 +4,7 @@
 ## Team Members:
 + Mehul Bhargava 
 + Navdeep Singh Saini 
++ Andrew Nguyen
 ---
 + The folder realestate is the package, containing all of the sub-packages and their respective modules/classes/methods.   
 + The package_design.pdf file contains a brief description of the package and functions that was planned before implementation.  
