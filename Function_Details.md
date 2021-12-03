@@ -4,6 +4,7 @@
 ## Team Members:
 + Navdeep Singh Saini [84280635]
 + Mehul Bhargava [35211721]
++ Andrew Nguyen [73490641]
 ---
 ### **FUNCTION DETAILS**
 ---
