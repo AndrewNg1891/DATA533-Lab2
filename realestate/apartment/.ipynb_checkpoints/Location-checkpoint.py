@@ -1,3 +1,4 @@
+# Location.py module
 from realestate.apartment import Feature
 
 class Location(Feature.Features):

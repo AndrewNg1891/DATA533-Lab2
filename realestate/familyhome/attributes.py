@@ -14,7 +14,7 @@
 
 # +
 
-
+# attributes.py module
 class Characteristics:  
     family_members1 = {"1": '500000-600000', "2": '600000-700000', "3 or more": '700000-800000'}
     family_members2 = {"1": '1400 sq. ft', "2": '1600 sq. ft', "3 or more": '1800 sq. ft'}

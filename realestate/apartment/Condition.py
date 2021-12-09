@@ -1,3 +1,4 @@
+# Condition.py module
 from realestate.apartment import Feature
 
 class Condition(Feature.Features):

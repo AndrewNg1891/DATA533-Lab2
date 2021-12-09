@@ -1,3 +1,4 @@
+# Feature.py module
 class Features:
     price = {
         '1BHK': '150000 - 200000 CAD', 

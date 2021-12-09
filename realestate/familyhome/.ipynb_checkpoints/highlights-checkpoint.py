@@ -12,6 +12,7 @@
 #     name: python3
 # ---
 
+# highlights.py module
 from realestate.familyhome import attributes
 class Highlights(attributes.Characteristics):  
     garage1 = {"1": 'No Garage available', "2": 'Garage with one car capacity', "3 or more": 'Garage with two cars capacity'}

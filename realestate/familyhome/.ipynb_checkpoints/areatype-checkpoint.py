@@ -12,6 +12,7 @@
 #     name: python3
 # ---
 
+# areatype.py module
 from realestate.familyhome import attributes
 class AreaType(attributes.Characteristics):  
     amen1 = {"1": 'Hospital, Park, Shopping Center, School, and a Mall', "2": 'Hospital, Park, Shopping Center, and a School', "3 or more": 'Hospital, Park, Shopping Center, School, Mall, Library, Beach, and a Cafe'}
